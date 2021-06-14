@@ -57,12 +57,10 @@ footer {
 }
 
 .video {
-    width: 600px;
+    width: 404px;
     margin-left: auto;
     margin-right: auto;
-    display: block;
-    background-size: cover;
-    text-align: center;
+    object-fit: contain;
 }
 
 #icon {
